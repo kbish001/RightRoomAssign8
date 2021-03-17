@@ -16,8 +16,8 @@ Here is your process outline:
 3) Run a diff command to document what is different between your version of the file and the previous version. 
     A) To be edited here: 
 4) Merge your change into the group's project.
-    A) To be edited here: 
+    A) Merged 
 6) Now reverse your changes. 
-  A) To be edited here: 
+  A) Will reverse wrong room addtion 
 8) For each process above, document how you did it and what was the result. 
   A) To be edited here: 
