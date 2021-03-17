@@ -18,6 +18,11 @@ Here is your process outline:
 4) Merge your change into the group's project.
     A) Merged 
 6) Now reverse your changes. 
+Reverting a pull request
+Under your repository name, click Pull requests.
+In the "Pull Requests" list, click the pull request you'd like to revert.
+Near the bottom of the pull request, click Revert.
+Merge the resulting pull request. For more information, see "Merging a pull request."
   A) Will reverse wrong room addtion 
 8) For each process above, document how you did it and what was the result. 
   A) To be edited here: 
