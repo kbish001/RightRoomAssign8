@@ -14,7 +14,7 @@ Here is the process outline with details added underneath:
     B) Made a branch and edited.  Will provide screen shot with changes for assignment. 
 
 3) Run a diff command to document what is different between your version of the file and the previous version. 
-    A) To be edited here: 
+    A) diff showed green for currnent and deleted in red.
 4) Merge your change into the group's project.
     A) Merged 
 6) Now reverse your changes. 
