@@ -3,7 +3,7 @@ Assignment 8: Managing a Specific Change - Document complete history managing th
 Due Mar 3 by 11:59pm Points 100 Submitting a file upload
 For this assignment, you are going to make one specific change to your group's project. You will log each action you take in making and managing this change. As a deliverable for this assignment, upload a file documenting your complete history in making and managing this change.
 
-Here is your process outline:
+Here is the process outline with details added underneath:
 
 1) Update your local repository with the lastest version of the group's project. 
     A) When I fork from Alannao/the-game it only fork'ss teh rbunge-nsc/the-game version. 
@@ -23,6 +23,6 @@ Under your repository name, click Pull requests.
 In the "Pull Requests" list, click the pull request you'd like to revert.
 Near the bottom of the pull request, click Revert.
 Merge the resulting pull request. For more information, see "Merging a pull request."
-  A) Will reverse wrong room addtion 
+  A) Reversion worked magicall by inserting the word 'revert' in the front of the pull request and then proceed through the pull request as normal
 8) For each process above, document how you did it and what was the result. 
-  A) To be edited here: 
+  A) See above under each line item
